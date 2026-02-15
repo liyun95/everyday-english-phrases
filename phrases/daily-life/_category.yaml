@@ -1,0 +1,10 @@
+name:
+  en: "Daily Life"
+  zh: "日常生活"
+
+description:
+  en: "Expressions from street signs, app interfaces, public transport, and everyday situations"
+  zh: "来自街道标识、应用界面、公共交通和日常生活场景的表达"
+
+icon: "🏠"
+order: 2

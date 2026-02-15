@@ -1,0 +1,41 @@
+# Template for adding new phrases
+# Copy this template and fill in the fields
+# Required fields are marked with (REQUIRED)
+# Delete this comment block when using
+
+metadata:
+  source: "Source Name"                 # Where you found this phrase
+  source_url: ""                        # Optional: URL if available
+  region: "UK"                          # UK, US, AU, etc.
+  date_added: "YYYY-MM-DD"              # Date you added this
+
+phrases:
+  - id: phrase-id-here                  # (REQUIRED) lowercase, hyphens, unique
+    phrase: "the phrase"                # (REQUIRED) the English expression
+    pronunciation: "/IPA here/"         # Optional: IPA pronunciation
+
+    meaning:                            # (REQUIRED)
+      en: "English definition"
+      zh: "中文定义"
+
+    context:                            # Optional but recommended
+      en: "When and how to use this phrase"
+      zh: "使用场景说明"
+
+    cultural_note:                      # Optional
+      en: "Background information"
+      zh: "文化背景"
+
+    examples:                           # (REQUIRED) at least one
+      - en: "Example sentence."
+        zh: "例句翻译。"
+
+    related_phrases:                    # Optional
+      - "related phrase 1"
+      - "related phrase 2"
+
+    difficulty: intermediate            # (REQUIRED) beginner/intermediate/advanced
+
+    tags:                               # (REQUIRED) at least one
+      - tag1
+      - tag2

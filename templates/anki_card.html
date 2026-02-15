@@ -1,0 +1,139 @@
+<!-- Anki Card Template - Front -->
+<div class="card front">
+  <div class="phrase">{{Phrase}}</div>
+  {{#Pronunciation}}
+  <div class="pronunciation">{{Pronunciation}}</div>
+  {{/Pronunciation}}
+  {{#Context}}
+  <div class="context">{{Context}}</div>
+  {{/Context}}
+</div>
+
+<style>
+.card {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  text-align: center;
+  padding: 20px;
+  background: #fafafa;
+}
+
+.phrase {
+  font-size: 28px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.pronunciation {
+  font-size: 16px;
+  color: #666;
+  font-style: italic;
+  margin-bottom: 15px;
+}
+
+.context {
+  font-size: 14px;
+  color: #888;
+  padding: 10px;
+  background: #f0f0f0;
+  border-radius: 5px;
+}
+</style>
+
+<!-- Anki Card Template - Back -->
+<div class="card back">
+  <div class="phrase">{{Phrase}}</div>
+  {{#Pronunciation}}
+  <div class="pronunciation">{{Pronunciation}}</div>
+  {{/Pronunciation}}
+
+  <hr>
+
+  <div class="section">
+    <div class="label">Meaning 含义</div>
+    <div class="meaning-en">{{MeaningEN}}</div>
+    <div class="meaning-zh">{{MeaningZH}}</div>
+  </div>
+
+  {{#Example}}
+  <div class="section">
+    <div class="label">Example 例句</div>
+    <div class="example-en">{{Example}}</div>
+    <div class="example-zh">{{ExampleZH}}</div>
+  </div>
+  {{/Example}}
+
+  {{#CulturalNote}}
+  <div class="section cultural">
+    <div class="label">💡 Cultural Note 文化背景</div>
+    <div class="note">{{CulturalNote}}</div>
+  </div>
+  {{/CulturalNote}}
+
+  <div class="meta">
+    <span class="difficulty {{Difficulty}}">{{Difficulty}}</span>
+    <span class="tags">{{Tags}}</span>
+  </div>
+</div>
+
+<style>
+.card.back {
+  text-align: left;
+}
+
+.section {
+  margin: 15px 0;
+  padding: 10px;
+  background: #fff;
+  border-radius: 5px;
+  border-left: 3px solid #4a90d9;
+}
+
+.label {
+  font-size: 12px;
+  color: #999;
+  text-transform: uppercase;
+  margin-bottom: 5px;
+}
+
+.meaning-en, .example-en {
+  font-size: 16px;
+  color: #333;
+  margin-bottom: 5px;
+}
+
+.meaning-zh, .example-zh {
+  font-size: 14px;
+  color: #666;
+}
+
+.cultural {
+  border-left-color: #f5a623;
+  background: #fffbf0;
+}
+
+.meta {
+  margin-top: 20px;
+  font-size: 12px;
+}
+
+.difficulty {
+  padding: 2px 8px;
+  border-radius: 10px;
+  margin-right: 10px;
+}
+
+.difficulty.beginner { background: #d4edda; color: #155724; }
+.difficulty.intermediate { background: #fff3cd; color: #856404; }
+.difficulty.advanced { background: #f8d7da; color: #721c24; }
+
+.tags {
+  color: #999;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #eee;
+  margin: 15px 0;
+}
+</style>

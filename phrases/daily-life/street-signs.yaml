@@ -1,0 +1,129 @@
+metadata:
+  source: "Various UK/US street signs"
+  region: "UK/US"
+  date_added: "2024-01-15"
+
+phrases:
+  - id: give-way
+    phrase: "give way"
+    pronunciation: "/ɡɪv weɪ/"
+
+    meaning:
+      en: "Yield to other traffic; let others go first"
+      zh: "让路；让其他车辆先行"
+
+    context:
+      en: "British equivalent of 'yield'. Found on road signs at junctions."
+      zh: "英式说法，相当于美式的'yield'。出现在路口标志上。"
+
+    cultural_note:
+      en: "In the US, the equivalent sign says 'YIELD'. Both mean the same thing."
+      zh: "在美国，同样的标志写'YIELD'。两者含义相同。"
+
+    examples:
+      - en: "Give way to traffic on the main road."
+        zh: "让主路车辆先行。"
+      - en: "There's a give way sign at the junction."
+        zh: "路口有个让行标志。"
+
+    difficulty: beginner
+    tags:
+      - traffic
+      - british
+      - signs
+
+  - id: no-stopping
+    phrase: "no stopping"
+    pronunciation: "/nəʊ ˈstɒpɪŋ/"
+
+    meaning:
+      en: "Vehicles cannot stop at any time, even briefly"
+      zh: "禁止停车；车辆任何时候都不能停留，即使是短暂停留"
+
+    context:
+      en: "Stricter than 'no parking'. Cannot stop for any reason except emergencies."
+      zh: "比'禁止停放'更严格。除紧急情况外不能停车。"
+
+    examples:
+      - en: "No stopping 7am-9am Mon-Fri"
+        zh: "周一至周五早7点至9点禁止停车"
+
+    difficulty: beginner
+    tags:
+      - traffic
+      - signs
+      - parking
+
+  - id: mind-the-gap
+    phrase: "mind the gap"
+    pronunciation: "/maɪnd ðə ɡæp/"
+
+    meaning:
+      en: "Be careful of the space between the train and the platform"
+      zh: "小心站台与列车之间的空隙"
+
+    context:
+      en: "Famous London Underground announcement. Now used metaphorically for any oversight."
+      zh: "著名的伦敦地铁广播。现在也比喻性地用于指任何疏忽。"
+
+    cultural_note:
+      en: "The phrase has become iconic of London, appearing on souvenirs and merchandise."
+      zh: "这句话已成为伦敦的标志，出现在各种纪念品上。"
+
+    examples:
+      - en: "Mind the gap between the train and the platform."
+        zh: "请注意列车与站台之间的空隙。"
+      - en: "Mind the gap in your argument."
+        zh: "注意你论点中的漏洞。"
+
+    difficulty: beginner
+    tags:
+      - transport
+      - british
+      - iconic
+
+  - id: way-out
+    phrase: "way out"
+    pronunciation: "/weɪ aʊt/"
+
+    meaning:
+      en: "Exit (British); the path to leave a building or station"
+      zh: "出口（英式说法）；离开建筑物或车站的通道"
+
+    context:
+      en: "British term for exit. Common in tube stations, buildings."
+      zh: "英式出口说法。常见于地铁站、建筑物。"
+
+    examples:
+      - en: "Follow signs to the way out."
+        zh: "请沿指示牌前往出口。"
+      - en: "The way out is on your left."
+        zh: "出口在您的左边。"
+
+    difficulty: beginner
+    tags:
+      - transport
+      - british
+      - directions
+
+  - id: pedestrian-crossing
+    phrase: "pedestrian crossing"
+    pronunciation: "/pəˈdestriən ˈkrɒsɪŋ/"
+
+    meaning:
+      en: "A marked place where people can safely cross the road"
+      zh: "人行横道；标记的行人安全过马路的地方"
+
+    context:
+      en: "British term. US equivalent is 'crosswalk'."
+      zh: "英式说法。美式说法是'crosswalk'。"
+
+    examples:
+      - en: "Use the pedestrian crossing to cross safely."
+        zh: "请使用人行横道安全过马路。"
+
+    difficulty: beginner
+    tags:
+      - traffic
+      - british
+      - safety

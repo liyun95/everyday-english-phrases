@@ -1,0 +1,258 @@
+metadata:
+  source: "Blacklock Restaurant Menu"
+  source_url: "https://theblacklock.com"
+  region: "UK"
+  date_added: "2024-01-15"
+
+phrases:
+  - id: pre-chop-bites
+    phrase: "pre-chop bites"
+    pronunciation: "/priː tʃɒp baɪts/"
+
+    meaning:
+      en: "Small appetizers served before the main meat course at a chophouse"
+      zh: "餐前小食；在正式肉类主菜前供应的小份开胃菜"
+
+    context:
+      en: "Used in British steakhouses/chophouses. 'Chop' refers to meat cuts."
+      zh: "常见于英式牛排馆。'Chop'指肉排。"
+
+    cultural_note:
+      en: "British chophouses traditionally focus on grilled meats. Pre-chop bites are lighter dishes to start."
+      zh: "英式chophouse传统上以烤肉为主，pre-chop bites是正餐前的轻食。"
+
+    examples:
+      - en: "Start with our pre-chop bites while your steak rests."
+        zh: "在等待牛排的同时，先来点餐前小食。"
+
+    related_phrases:
+      - "appetizers"
+      - "starters"
+
+    difficulty: intermediate
+    tags:
+      - restaurant
+      - british
+      - menu
+
+  - id: door-stop-thick
+    phrase: "door-stop thick"
+    pronunciation: "/dɔː stɒp θɪk/"
+
+    meaning:
+      en: "Extremely thick, as thick as a door stop/wedge"
+      zh: "超厚的，像门挡一样厚"
+
+    context:
+      en: "Informal, emphasizes generous portions. Often used for bread, steaks, sandwiches."
+      zh: "非正式用语，强调分量十足。常用于描述面包、牛排、三明治等。"
+
+    examples:
+      - en: "Door-stop thick toast with butter"
+        zh: "超厚吐司配黄油"
+      - en: "They serve door-stop thick sandwiches here."
+        zh: "这里的三明治厚得像门挡。"
+
+    difficulty: intermediate
+    tags:
+      - food-description
+      - british
+      - informal
+
+  - id: dripping
+    phrase: "dripping"
+    pronunciation: "/ˈdrɪpɪŋ/"
+
+    meaning:
+      en: "Fat that has melted and dripped from roasting meat, used for cooking or spreading"
+      zh: "烤肉时滴下的油脂，用于烹饪或涂抹"
+
+    context:
+      en: "Traditional British cooking ingredient. Often beef dripping, used for roasting potatoes or spreading on toast."
+      zh: "传统英式烹饪原料。通常是牛油，用于烤土豆或涂面包。"
+
+    cultural_note:
+      en: "Beef dripping was a staple in British working-class homes. 'Dripping on toast' was a common snack."
+      zh: "牛油曾是英国工薪阶层家庭的主食。'涂牛油的吐司'是常见小吃。"
+
+    examples:
+      - en: "Roast potatoes cooked in beef dripping"
+        zh: "用牛油烤的土豆"
+      - en: "Toast with dripping and a sprinkle of salt"
+        zh: "涂牛油撒盐的吐司"
+
+    difficulty: intermediate
+    tags:
+      - cooking
+      - british
+      - traditional
+
+  - id: charred
+    phrase: "charred"
+    pronunciation: "/tʃɑːd/"
+
+    meaning:
+      en: "Partially burned on the surface, giving a smoky flavor and blackened appearance"
+      zh: "表面略微烧焦的，带有烟熏风味和焦黑外观"
+
+    context:
+      en: "Desirable in grilling/BBQ. Indicates high-heat cooking for flavor."
+      zh: "在烧烤中是褒义词，表示高温烹饪带来的风味。"
+
+    examples:
+      - en: "Charred broccoli with garlic"
+        zh: "蒜香焦烤西兰花"
+      - en: "The steak had perfectly charred edges."
+        zh: "牛排边缘焦烤得恰到好处。"
+
+    difficulty: beginner
+    tags:
+      - cooking
+      - technique
+      - menu
+
+  - id: all-in
+    phrase: "all in"
+    pronunciation: "/ɔːl ɪn/"
+
+    meaning:
+      en: "A sharing platter with a variety of items included; everything together"
+      zh: "拼盘；包含多种食物的分享餐；全包含"
+
+    context:
+      en: "Used for sharing platters at restaurants. Also means fully committed in poker/casual speech."
+      zh: "用于餐厅的分享拼盘。在扑克和日常口语中也表示'全力以赴'。"
+
+    examples:
+      - en: "The All In - a selection of chops, steaks, and sides for the table"
+        zh: "全家福拼盘 - 包含各种肉排、牛排和配菜的分享餐"
+      - en: "We went all in on the sharing platter."
+        zh: "我们点了一份大拼盘一起分享。"
+
+    difficulty: beginner
+    tags:
+      - restaurant
+      - menu
+      - sharing
+
+  - id: bone-marrow
+    phrase: "bone marrow"
+    pronunciation: "/bəʊn ˈmærəʊ/"
+
+    meaning:
+      en: "The soft, fatty tissue inside bones, considered a delicacy when roasted"
+      zh: "骨髓；骨头内部柔软的脂肪组织，烤制后是美味佳肴"
+
+    context:
+      en: "Luxury item on steakhouse menus. Served in the bone, scooped out with a special spoon."
+      zh: "牛排馆的高档菜品。连骨上桌，用专门的小勺舀出食用。"
+
+    cultural_note:
+      en: "Roasted bone marrow has become a trendy dish in upscale restaurants, often served with toast."
+      zh: "烤骨髓已成为高档餐厅的时髦菜品，通常配吐司食用。"
+
+    examples:
+      - en: "Roasted bone marrow with sourdough toast"
+        zh: "烤骨髓配酸面包吐司"
+
+    difficulty: intermediate
+    tags:
+      - menu
+      - british
+      - delicacy
+
+  - id: grass-fed
+    phrase: "grass-fed"
+    pronunciation: "/ɡrɑːs fed/"
+
+    meaning:
+      en: "Livestock raised on grass pastures rather than grain feed"
+      zh: "草饲的；以草地放牧而非谷物饲料喂养的牲畜"
+
+    context:
+      en: "Marketing term emphasizing natural, higher-quality meat. Common on premium menus."
+      zh: "强调天然、高品质肉类的营销术语。常见于高端菜单。"
+
+    examples:
+      - en: "28-day aged, grass-fed British beef"
+        zh: "28天熟成草饲英国牛肉"
+      - en: "Our lamb is 100% grass-fed from Welsh farms."
+        zh: "我们的羊肉100%来自威尔士农场的草饲羊。"
+
+    difficulty: beginner
+    tags:
+      - menu
+      - quality
+      - meat
+
+  - id: dry-aged
+    phrase: "dry-aged"
+    pronunciation: "/draɪ eɪdʒd/"
+
+    meaning:
+      en: "Meat aged in controlled conditions to enhance flavor and tenderness"
+      zh: "干式熟成的；在受控环境中陈放以增强风味和嫩度的肉类"
+
+    context:
+      en: "Premium beef preparation. The aging process concentrates flavor and tenderizes the meat."
+      zh: "高端牛肉处理方式。熟成过程浓缩风味并使肉质更嫩。"
+
+    examples:
+      - en: "45-day dry-aged ribeye"
+        zh: "45天干式熟成肋眼牛排"
+      - en: "Our steaks are dry-aged for a minimum of 28 days."
+        zh: "我们的牛排至少干式熟成28天。"
+
+    difficulty: intermediate
+    tags:
+      - menu
+      - technique
+      - premium
+
+  - id: skin-on-fries
+    phrase: "skin-on fries"
+    pronunciation: "/skɪn ɒn fraɪz/"
+
+    meaning:
+      en: "French fries/chips made with the potato skin left on"
+      zh: "带皮薯条；保留土豆皮制作的薯条"
+
+    context:
+      en: "Rustic style of fries. The skin adds texture and is considered more natural/artisanal."
+      zh: "乡村风格薯条。保留土豆皮增加口感，被认为更天然/手工。"
+
+    examples:
+      - en: "Served with skin-on fries and aioli"
+        zh: "配带皮薯条和蒜泥蛋黄酱"
+
+    difficulty: beginner
+    tags:
+      - menu
+      - sides
+      - casual
+
+  - id: burnt-ends
+    phrase: "burnt ends"
+    pronunciation: "/bɜːnt endz/"
+
+    meaning:
+      en: "Flavorful, caramelized pieces cut from the point end of smoked brisket"
+      zh: "焦糖末端；从烟熏牛腩尖端切下的焦香美味肉块"
+
+    context:
+      en: "BBQ specialty, originally from Kansas City. The most prized part of the brisket."
+      zh: "烧烤特色菜，起源于堪萨斯城。是牛腩最珍贵的部分。"
+
+    cultural_note:
+      en: "Originally given away free at KC BBQ joints, burnt ends are now a sought-after delicacy."
+      zh: "最初在堪萨斯城的烧烤店免费赠送，如今焦糖末端已成为备受追捧的美食。"
+
+    examples:
+      - en: "Brisket burnt ends with pickles and white bread"
+        zh: "牛腩焦糖末端配酸黄瓜和白面包"
+
+    difficulty: intermediate
+    tags:
+      - bbq
+      - american
+      - menu
