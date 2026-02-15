@@ -15,7 +15,7 @@ A community-driven collection of real-world English phrases with bilingual (Engl
 
 ### Browse Phrases
 
-Visit our [GitHub Pages site](https://yourusername.github.io/everyday-english-phrases/) to browse all phrases by category.
+Visit our [GitHub Pages site](https://liyun95.github.io/everyday-english-phrases/) to browse all phrases by category.
 
 ### Download Anki Deck
 
@@ -27,7 +27,7 @@ Visit our [GitHub Pages site](https://yourusername.github.io/everyday-english-ph
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/everyday-english-phrases.git
+git clone https://github.com/liyun95/everyday-english-phrases.git
 cd everyday-english-phrases
 
 # Install dependencies
